@@ -1,5 +1,6 @@
-
-https://github.com/AlSh65/AlSh65/blob/main/header.png
+<h1 align="center">Hi there, I'm Alex
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Backend Developer from Russia 🇷🇺</h3>
 <!--
 **AlSh65/AlSh65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
