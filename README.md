@@ -1,5 +1,5 @@
 
-(https://github.com/AlSh65/AlSh65/blob/main/header.png)
+https://github.com/AlSh65/AlSh65/blob/main/header.png
 <!--
 **AlSh65/AlSh65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
